@@ -15,5 +15,4 @@ class Dog
     return @breed
   end
 
-
 end
